@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "@apollo/server": "^4.11.3",
-    "@as-integrations/h3": "^1.2.1",
+    "@as-integrations/h3": "github:Myshkouski/apollo-server-integration-h3#as-dependency",
     "h3": "^1.15.1"
   }
 }
