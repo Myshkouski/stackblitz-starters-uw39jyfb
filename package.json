@@ -1,7 +1,9 @@
 {
-  "name": "node-starter",
+  "name": "stackblitz-starters-uw39jyfb",
   "private": true,
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "@apollo/server": "^4.11.3",
+    "@as-integrations/h3": "^1.2.1",
+    "h3": "^1.15.1"
   }
 }
