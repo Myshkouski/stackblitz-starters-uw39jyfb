@@ -5,5 +5,10 @@
     "@apollo/server": "^4.11.3",
     "@as-integrations/h3": "^1.2.1",
     "h3": "^1.15.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^16.0.0"
   }
 }
